@@ -27,3 +27,7 @@ JavaScript
 
 Git / GitHub for version control
 
+To see the working website, visit:
+https://www.linkedin.com/posts/fathimamilfara_psrvlogcodecompetition2-tourismwebsite-webdevelopment-activity-7330987194934820864-P-Wx?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFQFUFMBUxEYATeKvtn7WlYsBkOFvwa2PNc
+
+
